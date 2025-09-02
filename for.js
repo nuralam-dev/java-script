@@ -20,13 +20,18 @@
 //     }
 // }
 
-let total = 0;
-for (let i = 0; i <= 50; i++){
-    if(i % 3===0){
-        console.log(i);
-        total = total + i;
-        console.log('total:', total);
-    }
-}
+// let total = 0;
+// for (let i = 0; i <= 50; i++){
+//     if(i % 3===0){
+//         console.log(i);
+//         total = total + i;
+//         console.log('total:', total);
+//     }
+// }
 
-console.log('total:', total);
+// console.log('total:', total);
+
+
+for (let i = 0; i <=100; i++){
+    console.log(i)
+}

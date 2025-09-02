@@ -10,7 +10,7 @@ const fruits = ['apple', 'banana', 'orange', 'mango', 'grape'];
 console.log(fruits);
 
 for (const fruit of fruits) {
-    console.log(fruit)
-    console.log('i want to eat')
-    console.log('its good')
+    console.log(fruit);
+    console.log('I want to eat');
+    console.log('It\'s good');
 }
