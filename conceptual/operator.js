@@ -10,4 +10,3 @@ var x = 40;
 x += 2
 console.log(x)
 
-var y = 
